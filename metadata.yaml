@@ -1,0 +1,32 @@
+_repo: The-four-Corners-in-California_71353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2023-08-06'
+identifiers:
+  gutenberg: '71353'
+language: en
+pgterms:marc905: 20221120134319blanchard
+pgterms:marc906: '1907'
+pgterms:marc907: us
+production_note: David Edwards, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aPhiladelphia :$bGeorge W. Jacobs & Company, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The four Corners in California
+url: http://www.gutenberg.org/ebooks/71353
